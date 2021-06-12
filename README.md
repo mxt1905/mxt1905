@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> &ensp;
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> &ensp;
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a> &ensp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="30" height="30"/> </a> &ensp;
   <a href="https://www.jetbrains.com/idea/promo/?gclid=57370b11dec81c66c36a6bbbcdc89309&gclsrc=3p.ds" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="intellij" width="30" height="30"/></a> &ensp;
 </div>
 </p> 
