@@ -35,3 +35,5 @@ Here are some ideas to get you started:
   <a href="https://www.jetbrains.com/idea/promo/?gclid=57370b11dec81c66c36a6bbbcdc89309&gclsrc=3p.ds" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="intellij" width="30" height="30"/></a> &ensp;
 </div>
 </p> 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mxt1905&show_icons=true&theme=dracula)
